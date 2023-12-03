@@ -1,0 +1,8 @@
+main.c:80:5:main	1
+main.c:162:6:SystemClock_Config	4
+main.c:207:13:MX_USART2_UART_Init	2
+main.c:240:13:MX_GPIO_Init	1
+main.c:281:6:StartDefaultTask	1
+main.c:297:6:StartTask02	1
+main.c:314:6:StartTask03	1
+main.c:328:6:Error_Handler	1
